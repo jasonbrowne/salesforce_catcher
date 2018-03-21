@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include salesforce_catcher *.css
+recursive-include salesforce_catcher *.csv
+recursive-include salesforce_catcher *.html
+recursive-include salesforce_catcher *.ico
+recursive-include salesforce_catcher *.js
+recursive-include salesforce_catcher *.json
+recursive-include salesforce_catcher *.md
+recursive-include salesforce_catcher *.png
+recursive-include salesforce_catcher *.py
+recursive-include salesforce_catcher *.svg
+recursive-include salesforce_catcher *.txt
+recursive-exclude salesforce_catcher *.pyc

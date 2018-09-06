@@ -10,7 +10,7 @@ app_icon = "octicon octicon-file-directory"
 app_color = "blue"
 app_email = "jason@ixsystems.com"
 app_license = "MIT"
-fixtures = ["SalesForceOpportunityDetails", "SalesForceOpportunityOtherDetails", "Sales Force Leads", "Sales Force Accounts" ]
+fixtures = ["SalesForceOthDetails", "SalesForceOpportunityDetails", "SalesForceOpportunityOtherDetails", "Sales Force Leads", "Sales Force Accounts" ]
 
 # Includes in <head>
 # ------------------

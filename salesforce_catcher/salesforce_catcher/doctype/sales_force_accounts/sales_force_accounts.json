@@ -1,6 +1,5 @@
 {
  "allow_copy": 0, 
- "allow_events_in_timeline": 0, 
  "allow_guest_to_view": 0, 
  "allow_import": 0, 
  "allow_rename": 0, 
@@ -1945,7 +1944,7 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2018-11-15 07:52:00.861228", 
+ "modified": "2018-11-15 20:26:23.461223", 
  "modified_by": "Administrator", 
  "module": "Salesforce Catcher", 
  "name": "Sales Force Accounts", 
@@ -2036,6 +2035,5 @@
  "sort_field": "modified", 
  "sort_order": "DESC", 
  "track_changes": 1, 
- "track_seen": 0, 
- "track_views": 0
+ "track_seen": 0
 }
